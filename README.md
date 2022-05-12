@@ -1,6 +1,6 @@
 # Conformational Differences of Proteins with the example for pentameric ligand-gated ion channels
 
-If you don't want to install the application offline you can visit fkoniuszewski.pythonanywhere.com to view the results.
+If you don't want to install the application you can visit fkoniuszewski.pythonanywhere.com to view the results.
 
 ***
 
